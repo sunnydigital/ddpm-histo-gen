@@ -1,0 +1,5 @@
+,schedule,attention
+0,linear_beta_schedule,no_attention
+1,linear_beta_schedule,self_attention
+2,cosine_beta_schedule,no_attention
+3,cosine_beta_schedule,self_attention

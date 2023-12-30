@@ -1,0 +1,4 @@
+# Ignores all trained models (too large of file size)
+*.pt
+.vscode\launch.json
+.vscode\settings.json
