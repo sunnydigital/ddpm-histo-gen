@@ -34,9 +34,5 @@ For now, enjoy these reverse diffusion images!
         <img src="https://github.com/sunnydigital/ddpm-histo-gen/blob/main/images/gifs/cosine_beta_schedule-no_attention05-interval10.gif" alt="Reverse Diffusion 1" width="49%"> 
         <img src="https://github.com/sunnydigital/ddpm-histo-gen/blob/main/images/gifs/cosine_beta_schedule-no_attention26-interval10.gif" alt="Reverse Diffusion 2" width="49%">
     </div>
-    <div>
-        <img src="https://github.com/sunnydigital/ddpm-histo-gen/main/images/gifs/cosine_beta_schedule-no_attention43-interval10.gif" alt="Reverse Diffusion 3" width="49%">
-        <img src="https://github.com/sunnydigital/ddpm-histo-gen/main/images/gifs/cosine_beta_schedule-no_attention47-interval10.gif" alt="Reverse Diffusion 4" width="49%">
-    </div>
 </p>
 These images awere generated using the combination of `cosine_beta_schedule` and `no_attention`, as through our ablation study, was shown to be the best combination of schedule/attention mechanism.
