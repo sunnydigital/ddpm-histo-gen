@@ -3,6 +3,15 @@
 
 This repository is primarily for the Final Project for Computer Vision, CSCI-GA.2271 Fall 2022, the goal of which being to train two (unconditional) DDPMs on classed datasets of `cancerous` and `non_cancerous` images obtained from the **Patch Camelyon dataset**.
 
+<p align="center">
+    <div>
+        <img src="https://github.com/sunnydigital/ddpm-histo-gen/blob/main/assets/slide1.png" alt="Slide 1"> 
+    </div>
+    <div>
+        <img src="https://github.com/sunnydigital/ddpm-histo-gen/blob/main/assets/slide2.png" alt="Slide 2"> 
+    </div>
+</p>
+
 We then ablate the models through two algorithmic metrics of:
 
 - SSIM (Structural Similarity) Index
